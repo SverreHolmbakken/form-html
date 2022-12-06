@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 503.6 87.61">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #d1d3d4;
+        font-family: MADETOMMY, 'MADE TOMMY';
+        font-size: 65px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(0 66.56)"><tspan x="0" y="0">Lo</tspan><tspan class="cls-3" x="71.5" y="0">r</tspan><tspan x="93.6" y="0">em Ipsum In</tspan><tspan class="cls-1" x="451.35" y="0">c</tspan><tspan x="487.49" y="0">.</tspan></text>
+</svg>
